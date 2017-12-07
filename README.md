@@ -4,7 +4,7 @@ Simple Node Food Bot
 
 -commands 
 
--- node app.js --name="YOUR_NAME"
--- node app.js --order="FOOD_ITEM"
--- node app.js --payment="PAYMENT_AMOUNT"
+-- node app.js --name="YOUR_NAME" <br />
+-- node app.js --order="FOOD_ITEM" <br />
+-- node app.js --payment="PAYMENT_AMOUNT" <br />
 -- node app.js --exit
